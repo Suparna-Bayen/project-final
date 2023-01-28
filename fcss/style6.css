@@ -1,0 +1,32 @@
+
+.nav-item .nav-link
+{
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+
+
+#first
+{
+    background-image: url(../fimg/slider1.jpg);
+    background-size: 100% 100%;
+}
+#second{
+    background-image: url(../fimg/slider2.jpg);
+    background-size: 100% 100%;
+}
+#third{
+background-image: url(../fimg/slider3.jpg);
+}
+.su i{
+    font-size: 30px;
+    color: red;
+}
+.su:hover{
+   
+    color: rgb(4, 0, 253);
+    background-color: aqua;
+    border-radius: 15px;
+}
